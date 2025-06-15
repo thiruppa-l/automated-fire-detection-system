@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "836469921237",
+    "firebase_url": "https://firedection-a6dbe-default-rtdb.firebaseio.com",
+    "project_id": "firedection-a6dbe",
+    "storage_bucket": "firedection-a6dbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836469921237:android:47d0ef100b7795dfb9995c",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxSD01-xd985n5IG7Xo1r0GpnN5dGpe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+C:/Users/Thiru/Desktop/Imp/Imp2/mini project/mini project/floorfire/fire/android/app/.cxx/RelWithDebInfo/2y2e705f/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Thiru/Desktop/Imp/Imp2/mini project/mini project/floorfire/fire/android/app/.cxx/RelWithDebInfo/2y2e705f/x86_64/CMakeFiles/rebuild_cache.dir
